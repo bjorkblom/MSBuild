@@ -3,7 +3,6 @@
 Build system for MSBuild in Sublime text
 
 ##Usage
-1. 
 1. Download MSBuild.sublime-build
 2. Put it in %userprofile%\AppData\Roaming\Sublime Text 3\Packages\User
 3. Open MSBuild.sublime-build in sublime and ensure the path to MSBuild.exe is correct.
